@@ -1301,7 +1301,7 @@ ul {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   position: relative;
-  background-image: url(../imgs/STats.jpg);
+  background-image: url(../imgs/stats.jpg);
   background-size: contain;
   min-width: 300px;
 }
